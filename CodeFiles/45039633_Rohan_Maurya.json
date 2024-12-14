@@ -1,0 +1,23 @@
+{
+    "resourceType": "Patient",
+    "id": "45039633",
+    "meta": {
+        "versionId": "1",
+        "lastUpdated": "2024-09-28T16:20:21.077+00:00",
+        "source": "#dWzj6VzAvpagNWE6"
+    },
+    "text": {
+        "status": "generated",
+        "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div class=\"hapiHeaderText\">Rohan <b>MAURYA </b></div><table class=\"hapiPropertyTable\"><tbody><tr><td>Date of birth</td><td><span>01 January 1995</span></td></tr></tbody></table></div>"
+    },
+    "name": [
+        {
+            "family": "Maurya",
+            "given": [
+                "Rohan"
+            ]
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1995-01-01"
+}
